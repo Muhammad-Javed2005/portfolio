@@ -1,0 +1,142 @@
+Create a fully static, professional personal portfolio website using ONLY:
+
+- HTML
+- CSS
+- Vanilla JavaScript
+
+IMPORTANT RULES (STRICT):
+- Do NOT use React, Vue, Vite, Next.js, Tailwind, Node, npm, or any build tools
+- Do NOT create client/, server/, package.json, or node_modules
+- The website must run by directly opening index.html in a browser
+- Output must only include static files: index.html, style.css, script.js, and an images/ folder
+
+====================================
+PORTFOLIO DETAILS
+====================================
+Name: Engr. Muhammad Javed  
+Title: Machine Learning Engineer | Software Engineering Student  
+Tagline: I build intelligent, data-driven solutions  
+
+====================================
+ABOUT ME
+====================================
+I am a Software Engineering undergraduate (3rd semester) at UBIT, University of Karachi,
+and currently enrolled in the Saylani Mass IT Training (SMIT) program specializing in
+Artificial Intelligence & Data Science.
+
+I have hands-on experience in data preprocessing, analysis, visualization, and building
+machine learning and deep learning models. My interests include Machine Learning,
+Deep Learning, NLP, Computer Vision, and real-world data-driven systems.
+
+====================================
+EDUCATION
+====================================
+- BS Software Engineering  
+  UBIT, University of Karachi (2025 – 2028)
+
+- AI & Data Science  
+  Saylani Mass IT Training (SMIT) (2025 – Present)
+
+- Intermediate (83%)  
+  Govt. Dehli College (2022 – 2024)
+
+====================================
+TECHNICAL SKILLS
+====================================
+Programming:
+- C++, Java, Python
+
+Data Analysis & Visualization:
+- NumPy, Pandas, Matplotlib, Seaborn
+- SQL, Power BI, Excel
+
+Machine Learning:
+- Scikit-learn
+- Linear & Logistic Regression
+- KNN, SVM, Random Forest, XGBoost
+- K-Means, Model Evaluation & Tuning
+
+Deep Learning:
+- TensorFlow, Keras, PyTorch
+- ANN, CNN, RNN, DNN, GAN
+
+Natural Language Processing:
+- Text Cleaning, Tokenization
+- Vectorization, Text Classification
+
+Computer Vision:
+- OpenCV, Image Processing
+
+====================================
+PROJECTS (WITH LINKS)
+====================================
+1) Brain Tumor Detection Using CNN  
+   Description:
+   - Deep learning-based medical image classification system
+   - MRI image preprocessing, normalization, CNN training  
+   GitHub:
+   https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN
+
+2) Fake News Detection  
+   Description:
+   - NLP and Machine Learning-based fake news classifier
+   - Text preprocessing, vectorization, multiple ML models  
+   GitHub:
+   https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML
+
+3) Job Market Trend Monitor  
+   Description:
+   - Real-time job market trend analysis system
+   - Selenium-based job scraping
+   - Data analysis and visualization using Pandas & NumPy  
+   GitHub:
+   https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor
+
+====================================
+CONTACT
+====================================
+Email: muhammadjaved.tech5@gmail.com  
+LinkedIn: https://www.linkedin.com/in/muhammad-javed-24b262369  
+GitHub: https://github.com/Muhammad-Javed2005  
+WhatsApp: +92 317 2005762  
+
+====================================
+DESIGN & UI REQUIREMENTS
+====================================
+- Modern, clean, professional design
+- Dark theme with blue / purple gradients
+- Glassmorphism cards
+- Smooth scrolling
+- Fully responsive (mobile, tablet, desktop)
+- Sticky navbar with smooth section navigation
+
+====================================
+ANIMATIONS (PURE CSS + JS)
+====================================
+- Typewriter animation for name and title
+- Fade-in and slide-up animations on scroll
+- Hover effects on skill and project cards
+- Subtle parallax background effect
+
+====================================
+WEBSITE STRUCTURE
+====================================
+1. Navbar (About, Skills, Projects, Education, Contact)
+2. Hero Section (name, title, CTA buttons)
+3. About Me
+4. Skills Grid
+5. Projects Section (cards with GitHub links)
+6. Education
+7. Contact Section (social icons)
+8. Footer
+
+====================================
+OUTPUT REQUIREMENTS
+====================================
+Provide complete, clean, and well-commented:
+- index.html
+- style.css
+- script.js
+
+The final result must be a high-quality, recruiter-ready
+Machine Learning Engineer portfolio website.

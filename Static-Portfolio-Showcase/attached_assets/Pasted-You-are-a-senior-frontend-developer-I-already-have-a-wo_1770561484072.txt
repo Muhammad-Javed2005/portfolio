@@ -1,0 +1,113 @@
+You are a senior frontend developer.
+
+I already have a working static portfolio website (HTML, CSS, JavaScript only).
+I want you to UPDATE and RESTRUCTURE it according to the instructions below.
+Do NOT change the overall theme, colors, or styling concept.
+Only improve layout structure and content.
+
+IMPORTANT:
+- Use ONLY HTML, CSS, and Vanilla JavaScript
+- No frameworks, no libraries, no Tailwind, no React
+- Keep everything static
+- Modify existing files (index.html, style.css, script.js)
+
+====================================
+SKILLS SECTION (MAJOR UPDATE)
+====================================
+Current issue:
+Skills are shown in multiple small boxes.
+
+What I want instead:
+- ONE ROW = ONE SKILL CATEGORY
+- Each row should contain:
+  1) Category Icon (logo)
+  2) Category Title
+  3) Skills list
+  4) 2–3 professional sentences description
+
+Layout example (one row each):
+------------------------------------------------
+[ ICON ]  Programming Languages
+C++, Java, Python
+Short paragraph (2–3 lines) explaining my programming foundation,
+problem-solving skills, and OOP experience.
+------------------------------------------------
+
+Skill categories to include (each as ONE ROW):
+1) Programming Languages
+2) Data Analysis & Visualization
+3) Machine Learning
+4) Deep Learning
+5) NLP & Computer Vision
+
+Each category MUST have:
+- Relevant icon
+- Skills badges or inline list
+- 2–3 professional sentences explaining expertise
+
+====================================
+PROJECTS SECTION (CONTENT IMPROVEMENT)
+====================================
+- Keep ONE PROJECT per row (full width)
+- Increase project description length (3–4 lines)
+- Add more technical explanation:
+  - What problem it solves
+  - Tools/technologies used
+  - Outcome or impact
+
+Each project row must include:
+- Project title
+- Detailed description
+- GitHub button
+- Optional Live Demo button
+
+Projects:
+1) Brain Tumor Detection using CNN
+2) Fake News Detection
+3) Job Market Trend Monitor
+
+====================================
+PROFILE PICTURE (NEW ADDITION)
+====================================
+- Add a professional profile image in the Hero section
+- Circular or soft-rounded style
+- Slight shadow or glow
+- Image file name: profile.jpg
+- Assume profile.jpg exists in the project root or images folder
+
+====================================
+RESUME SECTION (NEW SECTION)
+====================================
+Add a new section similar to Skills and Education:
+
+Section title: Resume
+
+Content:
+- Short professional summary text
+- A prominent button:
+  "Download Resume (PDF)"
+
+Resume file:
+- File name: Resume_Javed.pdf
+- Must download directly on click
+- Assume Resume_Javed.pdf is already placed in project folder
+
+====================================
+GENERAL REQUIREMENTS
+====================================
+- Maintain current dark, modern UI
+- Keep animations and hover effects
+- Ensure mobile responsiveness
+- Clean spacing and alignment
+- Professional, recruiter-friendly wording
+
+====================================
+OUTPUT
+====================================
+Update:
+- index.html
+- style.css
+- script.js
+
+Do not remove existing working features.
+Only restructure skills, enhance projects, and add profile picture + resume section.
